@@ -16,12 +16,12 @@ wie zum Beispiel Java, formuliert wurde
 - Terminiertheit
   - liefert Resultat/Lösung
 - Ausführbarkeit
- - jede Anweisung ist verständlich und eindeutig ausführbar
- - d.h. auch vollständige Beschreibung, keine ausweglosen Zustände
+  - jede Anweisung ist verständlich und eindeutig ausführbar
+  - d.h. auch vollständige Beschreibung, keine ausweglosen Zustände
 - Allgemeingültig/ Universell
- - gleichartige Probleme mit Anweisungsfolge ebenso lösbar
- - liefert Ergebnisse für beliebige Eingabedaten
- - universell einsetzbar
+  - gleichartige Probleme mit Anweisungsfolge ebenso lösbar
+  - liefert Ergebnisse für beliebige Eingabedaten
+  - universell einsetzbar
 
 Jeder nächstfolgende Schritt ist genau festgelegt, endet nach endlich vielen Schritten und
 liefert ein Resultat. Die Anweisungen sind verständlich und eindeutig durch eine vollständige
@@ -30,12 +30,12 @@ Beschreibung ausführbar. Gleichartige Probleme lassen siche ebenso damit lösen
 ## Darstellungsformen
 
 - grafische Darstellung
- - Programmablaufplan
- - Linienmethode
- - Struktogramm (Nassi-Schneidermann-Diagramm) (am häufigsten verwendet)
+  - Programmablaufplan
+  - Linienmethode
+  - Struktogramm (Nassi-Schneidermann-Diagramm) (am häufigsten verwendet)
 - verbale Formulierung
- - Pseudocode
- - Klartext
+  - Pseudocode
+  - Klartext
 
 ## Zusammenfassung
 
