@@ -7,14 +7,14 @@ Objekten herangezogen werden können.
 - Mittelweg zwischen Interface und vollständig implementierter Klasse
 - über Schlüsselwort _abstract_ deklariert
 
-### Verwendung
+## Verwendung
 - Eigenschaften und Fähigkeiten einer allgemeinen Typgruppe definieren.
 - abgeleitete Unterklassen spezifiziert diese Eigenschaften und Fähigkeiten schlussendlich
 
 => Als Basisklassen in einer Klassenhierarchie können abstrakte Klassen grundlegende
 Eigenschaften ihrer Unterklasse festlegen, ohne diese bereits konkret zu implementieren.
 
-### Abstrakte Methoden
+## Abstrakte Methoden
 - bestehen lediglich aus ihrer Signatur, die mit Semikolon abgeschlossen werden
 - besitzen keinen Rumpf (fehlende Methodendefinition)
 
@@ -22,7 +22,7 @@ Eigenschaften ihrer Unterklasse festlegen, ohne diese bereits konkret zu impleme
 - abstrakte Klasse muss jedoch nicht zwingend eine abstrakte Methode enthalten
   -> können Variablen und vollständig implementierte Methoden enthalten
 
-### Unterklassen
+## Unterklassen
 - erbende Unterklassen müssen alle geerbten abstrakten Methoden implementieren
 oder sind ebenfalls abstrakt.
 
