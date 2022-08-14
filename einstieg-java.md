@@ -1,1 +1,0 @@
-# Genereller Java-Einstieg

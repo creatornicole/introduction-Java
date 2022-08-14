@@ -12,7 +12,8 @@ Helpful documents for getting started with Java (German version).
   -> Java führt Code nicht direkt auf dem System aus, sondern durch eine virtuelle Maschine (JVM)
 
 ## Wichtige Kommandos
-
+|                        Zweck                             |         Kommando          |
+|----------------------------------------------------------|---------------------------|
 | Programmübersetzung (also xyz.java -> xyz.class)         | javac nameOfJavaFile.java |
 | Programmausführung                                       | java nameOfJavaFile       |
 | Quellcode-Analyse (Disassemble) (also Anzeige Byte-Code) | javap -c nameOfJavaFile   |
