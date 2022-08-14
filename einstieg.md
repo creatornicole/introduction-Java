@@ -46,6 +46,6 @@
 ## Understand Arrays
 
 ## Variables
-h
+
 
 ## Zusammenfassung

@@ -37,12 +37,14 @@ int i = arr[3];
 
 ## Methoden
 
-- Arrays.sort(arr)                          sortiert Array in aufsteigender Ordnung
-- Arrays.sort(arr, fromIndex, toIndex)      sortiert angegebenen Teil des Arrays in aufsteigende Ordnung
-- Arrays.binarySearch(arr, value)           sucht Array nach Wert ab
-- Arrays.binarySearch(arr, from, to, value) sucht Array in angegebenen Teil nach Wert ab
-- Array.toString(arr)                       Ausgabe eines eindimensionalen Arrays
-- Array.deepToString(marr)                  Ausgabe eines mehrdimensionalen Arrays
+|                 Methode                   |                           Erklärung                          |
+|-------------------------------------------|--------------------------------------------------------------|
+| Arrays.sort(arr)                          | sortiert Array in aufsteigender Ordnung                      |
+| Arrays.sort(arr, fromIndex, toIndex)      | sortiert angegebenen Teil des Arrays in aufsteigende Ordnung |
+| Arrays.binarySearch(arr, value)           | sucht Array nach Wert ab                                     |
+| Arrays.binarySearch(arr, from, to, value) | sucht Array in angegebenen Teil nach Wert ab                 |
+| Array.toString(arr)                       | Ausgabe eines eindimensionalen Arrays                        |
+| Array.deepToString(marr)                  | Ausgabe eines mehrdimensionalen Arrays                       |
 
 -> um Arrays.binarySearch() zu verwenden, muss Array sortiert sein     
 -> Arrays.binarySearch() gibt Index der Stelle, an welcher sich Element befindet, zurück (nicht enthalten -> Index = -1)
