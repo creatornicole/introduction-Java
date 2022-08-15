@@ -7,6 +7,26 @@ Tipps und Hinweise:
 
 ## Java Bäume
 
+...sind Datenstrukturen, die hierarchische Strukturen abbilden.
+
+- in Java können Teilbäume angesprochen werden
+- einige werden standardmäßig angesprochen/ sind standardmäßig vorhanden
+- andere Bereiche müssen explizit mit eingebunden werden: Packages
+
+
+## Java Packages
+
+...Gruppierung von Klassen, die zu einem gewissen Bereich gehören.
+
+- Unterscheidung
+  - Java intern
+  - eigene Packages
+
+- Konventionen
+  - nur Kleinbuchstaben, Zahlen, Substantive
+  - für Internationalisierung: Domainnamen in umgekehrter Reihenfolge
+    (bspw.: package de.hsmw;)
+
 ## Java Dokumentation
 
 ## Java Kommentare
