@@ -29,11 +29,9 @@ Tipps und Hinweise:
 
 ## Java Dokumentation
 
-## Java Kommentare
 
-- comments in the code are ignored by the compiler
-- comments in the code are often about parts of the code that are difficult to understand
-  -> often written before methods to describe nuances in how those methods work
+
+
 
 
 ## Java Konstruktur
@@ -45,30 +43,12 @@ Tipps und Hinweise:
   -> if you need/ want constructor with no-arguments, you will have to declare it separately)
 - need constructors to ensure that objects have a valid state
 
-## Klasse
 
 ## Klassendiagramm
 
 ## Klassenschema
 
-## Methoden
 
-...definieren Funktionalität der jeweiligen Klasse.
-
-- Vielzahl von Kommandos, die spezifische Operationen (mit Objektdaten) ausführen
-- Methoden, die Wert zurückgeben, nutzen Keyword "return"
-  -> "return" stoppt Methode vom ablaufen
-- method overloading
-  - overload methods
-  - methods with the same name but different parameters
-- passed argument are called parameters
-  - pass by value -> primitve types are passed to methods by value (copy is created)
-  - pass by reference -> objects as parameter are passed by reference
-
-- we use parentheses to pass arguments to the method (also called command)
-  -> depending on the value of the arguments, the same method can execute different action
-- minimal program must contain at least one class that must include at least one method/ function to get the program running (= main method)
-- body of a method consists of commands <=> method is group of commands
 
 ## OOP
 
