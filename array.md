@@ -4,7 +4,10 @@
 
 - ist selbst Objekt in Java
 - Länge Array nach Erzeugung immer konstant/ nicht veränderbar
+  -> Länge gibt an, wie viel Array speichern kann, nicht wie viele Plätze belegt sind
 - durchnummeriert, startet mit 0
+  -> muss jedoch nicht in Reihenfolge befüllt werden
+
 
 ## Deklaration und Initialisierung
 

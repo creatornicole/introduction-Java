@@ -1,9 +1,48 @@
 # Einstieg
 
-Tipps und Hinweise:
-- Das, was für uns logisch ist, muss dem Computer immer genau mitgeteilt werden (bspw. welcher Datentyp).
-- Denkfehler sind die am schwierigsten auffindbaren Fehler beim Programmieren
+Programming Languages exists, because it is easier to understand than machine code that only consists of numbers 0 and 1.
 
+- compiler
+  - special program
+  - concerts program written in programming language into series of machine code
+  - machine code = final (compiled) program that can be executed by the computer
+  - final (compiled) program normally strongly depends on processor and operating system (BUT: different in Java!)
+
+## Vom Probelm zum Programm
+
+1. Problem (erkennen)
+2. Abstraktion - Problemanalyse (Was muss ich überhaupt machen?), Funktionelle Spezifikation, Algorithmen Entwurf (durch Zusammenfügen einzelner Komponenten)
+3. Algorithmus
+4. Darstellung - Darstellung in formalisierter Sprache/ Programmiersprache
+5. Programm
+6. Realisierung - Umsetzung in Elementarschritten
+7. Maschine
+
+- in Programmierprozess wird oft konkrete Aufgabe durch vorgegebene Ausgangsdaten beschrieben, für die Lösungsdaten berechnet werden sollen
+
+## Lernprozess
+
+- am Anfang ganz viel Wissen
+  -> Gefühl haben, man sei beste/r ProgrammiererIn
+- mach etwas Zeit nehmen Erfolge ab, Fortschritt verlangsamt sich, Enttäuschung tritt ein
+  = Punkt, an dem die Meisten aufhören
+
+## Tipps und Hinweise
+
+- wichtigste beim Programmieren lernen: Denken dahinter lernen (= Logik)
+- das, wwas für uns logisch ist, muss dem Computer immer genau mitgeteilt werden (bspw.: welcher Datentyp)
+- Denkfehler sind die am schwierigsten auffindbaren Fehler beim Programmieren
+- "Dividing a complex problem into smaller parts makes your program clear to understand and reusable."
+- unabhängig von der Programmiersprache muss man zuvor immer überlegen, mit welchen Algorithmus man ein Problem lösen kann und wie man dies in einem Programm umsetzen kann
+
+
+
+
+
+
+
+
+*NOCH AUSLAGERN:*
 
 ## Java Bäume
 
@@ -33,7 +72,6 @@ Tipps und Hinweise:
 
 
 
-
 ## Java Konstruktur
 
 - kind of class "skeleton" that each new object must match
@@ -43,26 +81,9 @@ Tipps und Hinweise:
   -> if you need/ want constructor with no-arguments, you will have to declare it separately)
 - need constructors to ensure that objects have a valid state
 
-
-## Klassendiagramm
-
-## Klassenschema
-
-
-
-## OOP
-
-## Programmieren lernen
-
-## Programmiersprachen
-
-## Struktogramme
-
-## Understand Arrays
-
 ## Variables
 
-- only methods should be available externally, data (variables) should be hidden
+- only methods should be available externally to access data from variables (attributes), data (variables) should be hidden
 
 ## Object Lifecycle
 

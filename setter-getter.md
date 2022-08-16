@@ -23,3 +23,9 @@ public class Mitarbeiter {
 ## Automatische Erzeugung in Eclipse
 
 Rechtsklick -> Source -> Generate Getters and Setters
+
+## Zusammenfassung
+
+- Setter und Getter sind Bezeichnungen für bestimmte Methoden
+- Setter -> Festlegung von Attributen
+- Getter -> Attribute erhalten
