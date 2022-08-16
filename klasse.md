@@ -8,7 +8,7 @@
   - Operationen (Methoden), die mit diesen Daten arbeiten (= Was das Objekt kann)
 - Attribute und Methoden befinden sich in Klassenrumpf
 
-![](images\klassenaufbau.PNG)
+![Allgemeiner Aufbau einer Klasse](images/klassenaufbau.PNG)
 
 - Klassenname und Dateiname (*.java) müssen immer übereinstimmen!
 

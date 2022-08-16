@@ -33,7 +33,7 @@
   | - a: int           | private int a;   |
   | + b: double        | public double b; |
 
-  ![Attributenangabe in Klassendiagramm](images\klassendiagramm-attribute.PNG)
+  ![Attributenangabe in Klassendiagramm](images/klassendiagramm-attribute.PNG)
 
 - Methoden
 
@@ -45,8 +45,8 @@
   | + equals(p: Punkt): boolean                   | private boolean equals(Punkt p) { ... }               |
   | + verschieben(deltaX: double, deltaY: double) | public void verschieben(double deltaX, double deltaY) |
 
-  ![Klassendiagramm Getter Methode](images\klassendiagramm-methode-getter.PNG)
-  ![Klassendiagramm Methode](images\klassendiagramm-methode.PNG)
+  ![Klassendiagramm Getter Methode](images/klassendiagramm-methode-getter.PNG)
+  ![Klassendiagramm Methode](images/klassendiagramm-methode.PNG)
 
 ## Zusammenfassung
 

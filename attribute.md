@@ -6,6 +6,6 @@
 
 ## Syntax
 
-![](images/syntax-attribute.PNG)
+![Syntax von Attributen](images/syntax-attribute.PNG)
 
 ## Zusammenfassung
