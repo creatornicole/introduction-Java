@@ -56,11 +56,11 @@ int a = myMethod(5, 4);
 
 ## Syntax
 
-![](images\syntax-methode.PNG)
+![](images/syntax-methode.PNG)
 
 ## Beispielmethode
 
-![Methode mit Beschreibungspfeilen](images\methodenbeschreibung.PNG)
+![Methode mit Beschreibungspfeilen](images/methodenbeschreibung.PNG)
 
 | Schlüsselwort | Aussage über     | Aussage                                                          |
 |---------------|------------------|------------------------------------------------------------------|
