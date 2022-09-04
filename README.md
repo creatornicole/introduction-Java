@@ -1,5 +1,7 @@
 # Introduction to Java
 
+Hauptquelle: Modul 21021 Einführung in die Informatik |: Einführung in die Programmierung gelehrt von Knut Altroggen an der Hochschule Mittweida
+
 Helpful documents for getting started with Java (German version).
 
 ## Order to learn

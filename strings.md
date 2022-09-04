@@ -1,5 +1,12 @@
 # Strings
 
+## Programmtechnische Umsetzung
+
+- Grundtyp der Sprache
+- File_of_Characters
+- Array_of_Characters
+- verkette Liste von Zeichen
+
 ## Methoden
 
 | Methode                                | Rückgabe         | Erklärung                                                                               |
